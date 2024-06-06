@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HLouLusk
 - 👀 I’m interested in becoming great at Javascript and learning new languages
-- 🌱 I’m currently learning Javascript with the help of my partner!
+- 🌱 I’m currently learning Typescript with the help of my partner!
 - 💞️ I’m looking to collaborate on any type of project.
 - 📫 How to reach me: email: hannmacd@gmail.com
 - 😄 Pronouns: Any
